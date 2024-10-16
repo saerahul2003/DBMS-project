@@ -1,1 +1,1 @@
-# DBMS-project
+# DBMS-project Hospital Management system
